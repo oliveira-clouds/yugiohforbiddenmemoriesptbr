@@ -1,11 +1,11 @@
-# yugioh forbidden memories pt-br
+# Yu-Gi-Oh Forbidden Memories pt-br
 
 
 Tradução do Yu-Gi-Oh Forbidden Memories para o recompilado 
 
 https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled
 
-# instalação 
+# Instalação 
 
-coloque os arquivos mod.json e pt-br.txt em uma pasta dentro da pasta mods, após isso ativar o mod e reiniciar. 
+Coloque os arquivos mod.json e pt-br.txt em uma pasta dentro da pasta mods, após isso ativar o mod e reiniciar. 
 
