@@ -1,7 +1,7 @@
-# yugiohforbiddenmemoriesptbr
+# yugioh forbidden memories pt-br
 
 
-tradução do yugioh forbidden Memories para o recompilado 
+Tradução do Yu-Gi-Oh Forbidden Memories para o recompilado 
 
 https://github.com/Unchiga/Yu-Gi-Oh-Forbidden-Memories-Recompiled
 
