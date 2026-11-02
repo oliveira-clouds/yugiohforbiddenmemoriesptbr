@@ -1,0 +1,9 @@
+{
+    "id": "traducao-ptbr",
+    "name": "Tradução portugues Brasil",
+    "version": "1.0",
+    "author": "Sephiroth",
+    "description": "Tradução para português Brasil",
+    "enabled": false,
+    "text": "pt-br.txt"
+}
